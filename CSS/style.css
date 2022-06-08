@@ -6,8 +6,8 @@ html{
 
 header{
     background-color: #C4170C;
-    height: 80px;
-    padding: 20px 30px 30px 20px;
+    height: 5em;
+    padding: 1.25em 1.875em 1.875em 1.25em;
     box-sizing: border-box;
 }
 
@@ -17,7 +17,8 @@ main{
 }
 
 h1{
-    font-size: 25px;
+    
+    font-size: 35px;
     text-align: center;
     text-transform: uppercase;
     font-weight:normal;
@@ -27,7 +28,6 @@ h1{
 
 h2{
     font-size: 25px;
-    font-weight:bold;
     color: #8B0000;
 }
 
@@ -43,7 +43,7 @@ h4{
 }
 
 h5{
-    font-size: 13px;
+    font-size: 12px;
     font-weight: bold;
     color: #000000
 }
@@ -52,6 +52,7 @@ p{
     font-size: 14px;
     font-weight: normal;
 }
+
 
 a{
     text-decoration: none;
@@ -113,7 +114,7 @@ a{
     margin-top: 2px ;
 }
 
-.economy-2{
+.economy-main{
     margin-top: 20px;
     color: #746565
 }
